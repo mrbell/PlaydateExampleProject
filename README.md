@@ -1,5 +1,7 @@
 First project getting to know the [Playdate SDK](https://sdk.play.date/1.11.0/Inside%20Playdate.html).
 
+![Screenshot](resources/Screenshot.png)
+
 Started with the project template found [here](https://github.com/Whitebrim/VSCode-PlaydateTemplate) and followed the helpful ["Getting Started with the Playdate SDK" video here](https://www.youtube.com/watch?v=J0ufxinp7No).
 
 The project is set up such that running the "Run Build Task" (Ctrl-Shift-B) compiles the game and sends to the emulator automatically, thanks to the project template linked above.
